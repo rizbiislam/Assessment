@@ -1,0 +1,22 @@
+{
+    "name": "John Doe",
+    "email": "johnridudoe123@example.com",
+    "password": "SecurePassword123",
+    "dob": {
+      "day": "10",
+      "month": "6", 
+      "year": "1990"
+    },
+    "address": {
+      "line1": "123 Main St",
+      "line2": "Apt 4B",
+      "city": "New York",
+      "state": "NY",
+      "country": "United States",
+      "zipcode": "10001"
+    },
+    "firstName": "John",
+    "lastName": "Doe",
+    "mobileNumber": "1234567890"
+  }
+  

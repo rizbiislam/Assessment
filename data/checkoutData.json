@@ -1,0 +1,13 @@
+{
+  "login": {
+    "email": "testuser@example.com",
+    "password": "password123"
+  },
+  "paymentDetails": {
+    "nameOnCard": "Test User",
+    "cardNumber": "4111111111111111",
+    "cvc": "123",
+    "expiryMonth": "12",
+    "expiryYear": "2025"
+  }
+}
