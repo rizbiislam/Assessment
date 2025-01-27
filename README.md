@@ -10,19 +10,10 @@ This repository contains UI test automation scripts built using **Playwright** a
 - Node.js installed (v14 or above)
 - Git installed
 
+---
+
 ### **Step 1: Clone the Repository**
-# git clone https://github.com/rizbiislam/Assessment.git
-#cd automation-project
-
-### **Step 2: Install Dependencies
-
-Run the following command to install required dependencies:
- # npm install
- 
-### **Step 3: Run Tests
-
-## Run a specific test file:
-# npx playwright test tests/<test-file-name>.spec.js
-## Generate and view the test report:
-# npx playwright show-report
-
+Run the following commands to clone the repository:
+```bash
+git clone https://github.com/rizbiislam/Assessment.git
+cd automation-project
